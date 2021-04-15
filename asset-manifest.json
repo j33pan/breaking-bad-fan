@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/not-so-sweet/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/not-so-sweet/static/js/main.44b42ca7.chunk.js",
+    "main.js.map": "/not-so-sweet/static/js/main.44b42ca7.chunk.js.map",
+    "runtime-main.js": "/not-so-sweet/static/js/runtime-main.a34bbc33.js",
+    "runtime-main.js.map": "/not-so-sweet/static/js/runtime-main.a34bbc33.js.map",
+    "static/js/2.9cbf6948.chunk.js": "/not-so-sweet/static/js/2.9cbf6948.chunk.js",
+    "static/js/2.9cbf6948.chunk.js.map": "/not-so-sweet/static/js/2.9cbf6948.chunk.js.map",
+    "static/js/3.f61cb7ea.chunk.js": "/not-so-sweet/static/js/3.f61cb7ea.chunk.js",
+    "static/js/3.f61cb7ea.chunk.js.map": "/not-so-sweet/static/js/3.f61cb7ea.chunk.js.map",
+    "index.html": "/not-so-sweet/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/not-so-sweet/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9cbf6948.chunk.js.LICENSE.txt": "/not-so-sweet/static/js/2.9cbf6948.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/not-so-sweet/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a34bbc33.js",
+    "static/js/2.9cbf6948.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.44b42ca7.chunk.js"
+  ]
+}
